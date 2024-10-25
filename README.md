@@ -19,9 +19,6 @@ cd app
 Install the dependencies:
 npm install 
 
-Install Sass: 
-npm install sass
-
 Start the application: 
 npm run dev
 
