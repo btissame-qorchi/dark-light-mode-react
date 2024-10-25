@@ -1,8 +1,27 @@
-# React + Vite
+# Description
+This React application allows users to toggle between light mode and dark mode. The user's choice is saved in localStorage, ensuring that the preference persists even after refreshing the page.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+1-Toggle between light and dark modes.
+2-Save user preference in localStorage.
 
-Currently, two official plugins are available:
+# Technologies Used
+  React
+  CSS - SCSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Installation
+Clone the repository :
+git clone https://github.com/btissame-qorchi/dark-light-mode-react.git
+
+Navigate to the project directory : 
+cd app
+
+Install the dependencies:
+npm install 
+
+Install Sass: 
+npm install sass
+
+Start the application: 
+npm run dev
+
