@@ -22,3 +22,6 @@ npm install
 Start the application: 
 npm run dev
 
+# Demo : 
+https://btissame-qorchi.github.io/dark-light-mode-react/
+
